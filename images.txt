@@ -1,1 +1,1 @@
-xiaoyaliu/alist:v3.38.0
+xiaoyaliu/alist:Latest
