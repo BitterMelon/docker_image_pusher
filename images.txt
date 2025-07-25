@@ -1,1 +1,1 @@
-xiaoyaliu/alist:base
+xiaoyaliu/alist:hostmode
