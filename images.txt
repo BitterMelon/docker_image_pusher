@@ -1,1 +1,1 @@
-xiaoyaliu/alist:hostmode
+ghcr.io/danvergara/morphos-server:latest
