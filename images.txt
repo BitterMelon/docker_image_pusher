@@ -1,1 +1,1 @@
-ghcr.io/danvergara/morphos-server:latest
+siyueqingchen/magic-resume:main
