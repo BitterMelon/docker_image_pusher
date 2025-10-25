@@ -1,1 +1,1 @@
-siyueqingchen/magic-resume:main
+cosincox/easyvoice:latest
