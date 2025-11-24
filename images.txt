@@ -1,1 +1,1 @@
-ydxian/drawnix:latest
+geekyouth/moodist:v1.2.0
