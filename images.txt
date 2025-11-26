@@ -1,1 +1,1 @@
-geekyouth/moodist:v1.2.0
+ghcr.io/remvze/pswd
