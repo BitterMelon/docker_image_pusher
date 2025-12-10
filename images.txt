@@ -1,1 +1,1 @@
-wangz2019/jsnes:1.0.0
+withoutbg/app:latest
