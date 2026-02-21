@@ -1,1 +1,1 @@
-bestzwei/libretv:latest
+registry.hf.space/sanster-lama-cleaner-lama:latest
