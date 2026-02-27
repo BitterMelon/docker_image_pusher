@@ -1,1 +1,1 @@
-registry.hf.space/sanster-lama-cleaner-lama:latest
+mmmz/trwebocr:latest
