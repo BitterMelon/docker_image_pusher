@@ -1,1 +1,1 @@
-mmmz/trwebocr:latest
+badapple9/speedtest-x
