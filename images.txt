@@ -1,1 +1,1 @@
-linuxserver/freecad:latest
+lscr.io/linuxserver/freecad:latest
